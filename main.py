@@ -1,0 +1,2 @@
+print("Rectangle")
+print("area:",)
